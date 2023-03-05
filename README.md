@@ -1,2 +1,3 @@
 # Mundo Lua
- Primeiro repositório versionado
+ 
+ Repositório de teste, armazenamento do projeto. 
